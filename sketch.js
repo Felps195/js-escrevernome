@@ -7,7 +7,7 @@ function setup() {
   function draw() {
     
     stroke ("blue");
-    fill ("red");
+    fill ("white");
    
     
     // console.log(mouseIsPressed);
